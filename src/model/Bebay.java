@@ -5,6 +5,7 @@ public class Bebay {
     private String dateBirth;
 
     private int age;
+    private String sexe;
 
 
     public Bebay(String nom, String dateBirth, int age) {

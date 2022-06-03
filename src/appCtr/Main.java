@@ -9,8 +9,9 @@ public class Main {
     }
 
 
-    Bebay babe = new Bebay("bibi", "21-01-2021");
 
+    Bebay babe = new Bebay("bibi", "21-01-2021");
+    Bebay babe2 = new Bebay("bibi", "21-01-2021");
 
 
 
